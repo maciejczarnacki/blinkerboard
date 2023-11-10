@@ -9,7 +9,7 @@ To use face.py, you need to install the mediapipe package and its dependencies. 
 pip install mediapipe
 ```
 
-Additionally, the OpenCV, Tkinter, pillow, pyttsx3 and numpy packages are needed to run the app.py. OpenCV and numpy install automatically as mediapipe dependencies. Tkinter is a package that supports window applications written in Python. pyttsx3 package is used for speach synthesis.
+Additionally, the OpenCV, Tkinter, pillow, pyttsx3 and numpy packages are needed to run the app.py. OpenCV and numpy install automatically as mediapipe dependencies. Tkinter is a package that supports window applications written in Python. pyttsx3 package is used for speech synthesis.
 
 
 ### How to use BlinkerBoard
